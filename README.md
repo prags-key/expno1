@@ -45,23 +45,18 @@ STEP 6: Use zscore of to remove outliers
 ![Screenshot (61)](https://github.com/user-attachments/assets/891ed7b7-c714-4363-8128-7785d8c2ba75)
 ![Screenshot (62)](https://github.com/user-attachments/assets/b1cbc939-688f-43d4-9182-da2ddea9a2f5)
 ![Screenshot (63)](https://github.com/user-attachments/assets/f740b875-2a7f-47c4-a248-46e26be6b369)
-![Screenshot (64)](https://github.com/user-attachments/assets/e85790af-9d32-4a5c-9a1e-d3f15d5681b5)
+![Screenshot (64)](https://github.com/user-attachments/assets/4ccbf613-35eb-43ca-855c-d18978532a6c)
+![Screenshot (67)](https://github.com/user-attachments/assets/211b0c15-afc8-4ce6-9123-c63ad3eba4de)
+![Screenshot (68)](https://github.com/user-attachments/assets/0d59a5a7-72ac-4388-b6f0-2ebf735b92c0)
+![Screenshot (69)](https://github.com/user-attachments/assets/93550234-b4c6-450c-915b-c7c41774ece8)
+![Screenshot (70)](https://github.com/user-attachments/assets/ffe4078d-c42c-4b7f-b587-26d0afec9767)
+![Screenshot (71)](https://github.com/user-attachments/assets/54bace02-3839-4e17-9f0d-edf786c75020)
+![Screenshot (72)](https://github.com/user-attachments/assets/a3d21476-ba5b-4a09-b391-834e780d706d)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# name
+PRAGTHI KUMAR
+# register number
+24006285
 
 
 
@@ -69,4 +64,4 @@ STEP 6: Use zscore of to remove outliers
 
 
 # Result
-          <<include your Result here>>
+Thus the given data is read and removed the outliers by detecting using IQR and Z-score method
